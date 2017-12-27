@@ -1,7 +1,7 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "",
+  "description": "A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). I used a  MVC design pattern; with use Node and MySQL to query and route data in your app, and Handlebars to generate the HTML.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

@@ -28,3 +28,4 @@ var connection = mysql.createConnection({
   password: "",
   database: "burgers_db"
 });
+
